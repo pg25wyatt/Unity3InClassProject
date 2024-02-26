@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f510d4a3-1943-471f-9eb0-c784b5403afe}">
+		<property name="assetPath">
+			<value>Weapons/56_Bullet_Impact_Sweetener_6_Into_Flesh.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.2840816326530611</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{06e99160-eeb7-4fd9-939d-fe84f3b7d247}</destination>
+		</relationship>
+	</object>
+</objects>

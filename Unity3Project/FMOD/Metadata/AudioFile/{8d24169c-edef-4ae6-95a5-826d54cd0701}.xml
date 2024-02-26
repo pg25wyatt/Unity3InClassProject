@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8d24169c-edef-4ae6-95a5-826d54cd0701}">
+		<property name="assetPath">
+			<value>Zombie/zombie_attack - Trimmed (4).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>8</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0958749999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{06e99160-eeb7-4fd9-939d-fe84f3b7d247}</destination>
+		</relationship>
+	</object>
+</objects>
