@@ -426,6 +426,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 5209687524632354212}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e16bf0c5d38a590458896ade583c1040,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1046837534736969519}
   m_SourcePrefab: {fileID: 100100000, guid: e16bf0c5d38a590458896ade583c1040, type: 3}
 --- !u!95 &3148271590234935317 stripped
 Animator:
@@ -766,6 +770,19 @@ MonoBehaviour:
       Data3: -1133384523
       Data4: 1447127795
     Path: event:/Footstep
+--- !u!114 &1046837534736969519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8510418103809986773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc097be99c88cb44c992debb1ce38665, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data: {fileID: 11400000, guid: d81b73f227a8a154280a9d2fba56a8bf, type: 2}
 --- !u!4 &9029933308071742063 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e16bf0c5d38a590458896ade583c1040,

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46534b04c110f7d45972ce11700e6947, type: 3}
+  m_Name: HeroCharacter
+  m_EditorClassIdentifier: 
+  <DisplayName>k__BackingField: Character Name
+  <Class>k__BackingField: 5
+  <Alignment>k__BackingField: 4
+  <BackStory>k__BackingField: Revenge for your dead father
+  <Level>k__BackingField: 1
+  <Health>k__BackingField: 1
+  <Speed>k__BackingField: 1
+  <Damage>k__BackingField: 1
+  <Magic>k__BackingField: 1
+  <ShoeSize>k__BackingField: 1
+  <EnergyProjection>k__BackingField: 1
+  <Popularity>k__BackingField: 1
+  <WisdomToothCount>k__BackingField: 1
